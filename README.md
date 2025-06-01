@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there 👋 
 
 Business Administration 🏢 & Software 🖥️
