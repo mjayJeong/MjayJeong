@@ -1,3 +1,3 @@
 ## Hi there 👋 
 
-Business Administration 🏢 & Software 🖥️
+Business Administration 🏢 & Software 🖥️  
