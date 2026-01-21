@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 ### 📖 Education
-- **Sungkyunkwan University (SKKU)** , _Business Administration 🏢 & Software 🖥️_  (2020.03 ~ 2026.02)
+- [**Sungkyunkwan University (SKKU)**](https://www.skku.edu/skku/index.do) , _Business Administration 🏢 & Software 🖥️_  (2020.03 ~ 2026.02)
   
 ### 💼 Experiences
 - **Teaching Assistant (TA)**, Introductory Programming Course, SKKU  (2024.03 ~ 2025.06)
