@@ -1,22 +1,12 @@
 ## Hi there 👋 
 
 ### 📖 Education
-- **Sungkyunkwan University (SKKU)**  
-  _Business Administration 🏢 & Software 🖥️_  
-  (Mar 2020 ~ Feb 2026)
+- **Sungkyunkwan University (SKKU)** , _Business Administration 🏢 & Software 🖥️_  (2020.03 ~ 2026.02)
   
 ### 💼 Experiences
-- **Teaching Assistant (TA)**  
-  Introductory Programming Course, SKKU  
-  (Mar 2024 ~ Jun 2025)
-
-- **Coding Test Coach**  
-  KB IT’s Your Life, 6th Cohort  
-  (Apr 2025 ~ Jun 2025)
-
-- **Service Planning Intern**  
-  Media AX Platform, [NAVER Cloud](https://www.ncloud.com/v2/)  
-  (Jun 2025 ~ Sep 2025)
+- **Teaching Assistant (TA)**, Introductory Programming Course, SKKU  (2024.03 ~ 2025.06)
+- **Coding Test Coach**, KB IT’s Your Life, 6th Cohort  (2025.04 ~ 2025.06)
+- **Service Planning Intern**, Media AX Platform, [NAVER Cloud](https://www.ncloud.com/v2/)  (2025.06 ~ 2025.09)
 
 ### 🏆 Awards
 - Low-Code App Development Competition (2024.11.07)
