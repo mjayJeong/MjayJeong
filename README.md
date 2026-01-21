@@ -1,11 +1,10 @@
 ## Hi there 👋 
 
 📖 Education
-- [SungKyunKwan University](https://www.skku.edu/skku/index.do) (2020.03 ~ 2026.02)
-- Business Administration 🏢 & Software 🖥️
+- [SungKyunKwan University](https://www.skku.edu/skku/index.do), _Business Administration 🏢 & Software 🖥️_, (2020.03 ~ 2026.02)
   
 💼 Experiences
-- Teaching Assistant (TA) for an Introductory Programming Course (2024.03 ~ 2025.06)
+- Teaching Assistant (TA), an Introductory Programming Course in SKKU (2024.03 ~ 2025.06)
 - Coding Test Coach, KB IT’s Your Life 6th (2025.04 ~ 2025.06)
 - Service Planning Intern, Media AX Platform, [NAVER Cloud](https://www.ncloud.com/v2/) (2025.06 ~ 2025.09)
 
@@ -16,8 +15,6 @@
 - Blaybus Practical Service Planning Competition (2025.08.18)
 
 🛠️ Skills
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,js,nextjs,react,tailwind,flask,spring,firebase,rstudio,figma,notion" />
   </a>
-</p>
