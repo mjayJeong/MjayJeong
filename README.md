@@ -5,7 +5,7 @@
   
 ### 💼 Experiences
 - **Teaching Assistant (TA)**, Introductory Programming Course, SKKU  (2024.03 ~ 2025.06)
-- **Coding Test Coach**, KB IT’s Your Life, 6th Cohort  (2025.04 ~ 2025.06)
+- **Coding Test Coach**, KB IT’s Your Life, 6th  (2025.04 ~ 2025.06)
 - **Service Planning Intern**, Media AX Platform, [NAVER Cloud](https://www.ncloud.com/v2/)  (2025.06 ~ 2025.09)
 
 ### 🏆 Awards
