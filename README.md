@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋
 
 ### 📖 Education
 - [Sungkyunkwan University (SKKU)](https://www.skku.edu/skku/index.do) , _Business Administration 🏢 & Software 🖥️_  (2020.03 ~ 2026.02)
