@@ -13,7 +13,7 @@
 - 2024 CO-SHOW AIM Challenge (2024.11.22)
 - Intercultural Peer Learning Program 2024 (2025.01.09)
 - Blaybus Practical Service Planning Competition (2025.08.18)
-- Sungkyunkwan University Honor Graduate Award (2026.02.25)
+- SKKU Honor Graduate Award (2026.02.25)
 
 ### 🛠️ Skills
 <a href="https://skillicons.dev">
